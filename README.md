@@ -5,10 +5,6 @@ CNN used for classifying American Sign Language.
 ## Data Sources
 - ASL MNIST: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
-## Device Used
-- Google Colab For Training
-- Raspberry Pi 4 Model B 2GB for Inference
-
 ### Methodology
 - Data Processing and Training Baseline CNN: Standard preprocessing techniques for MNIST (normalizing)
 
@@ -18,7 +14,9 @@ CNN used for classifying American Sign Language.
 
 ### Technologies and Tools
 - Keras
-- Tensorflow Optimization
+- Tensorflow Optimization Library
+- Google Colab For Training
+- Raspberry Pi 4 Model B 2GB for Inference
 
 ### Team Members
 - John Olusetire
