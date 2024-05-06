@@ -7,10 +7,10 @@ CNN used for classifying American Sign Language.
 
 ### Methodology
 - Data Processing and Training Baseline CNN: Standard preprocessing techniques for MNIST (normalizing)
-
 - Model Optimization:
   - Unstructured Global Pruning
   - 8-bit Quantization
+- Model Conversion to TFLite format
 
 ### Technologies and Tools
 - Keras
